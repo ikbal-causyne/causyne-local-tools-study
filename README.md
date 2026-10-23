@@ -1,4 +1,8 @@
-# On-device conversion and file optimization study
+# On-Device Unit Conversion and File Optimization in an Android Application: A Source-Level Study
+
+**Read the paper:** [10-page PDF](paper/paper3_review.pdf) · [LaTeX source](paper/main.tex)
+
+This is a publicly available working preprint, not a peer-reviewed article. The paper and code are separate research outputs; cite the paper for its analysis and the repository for code reuse. No journal publication or DOI is claimed.
 
 This repository pairs a source-level research paper with selected, unchanged source files from the Vanexa Android application. The files under `android-source/` show the converter, image re-encoder, PDF processor, and their UI call paths. They are evidence snapshots, not a standalone Android application. Building them requires the original app's Android, Compose, PDFBox-Android, Apache POI, and coroutine dependencies.
 
