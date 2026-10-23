@@ -1,0 +1,17 @@
+{
+  "title": "On-Device Unit Conversion and File Optimization in an Android Application: A Source-Level Study",
+  "description": "Source-level study of local unit conversion, image re-encoding, and PDF rewriting in an Android application. No empirical performance, compression, or end-to-end offline results are claimed.",
+  "creators": [
+    {
+      "name": "Fadilah, Ikbal",
+      "affiliation": "Causyne",
+      "orcid": "0009-0008-4853-135X"
+    }
+  ],
+  "resource_type": {
+    "type": "publication",
+    "subtype": "preprint"
+  },
+  "access_right": "open",
+  "license": "cc-by-4.0"
+}

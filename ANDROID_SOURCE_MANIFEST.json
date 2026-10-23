@@ -1,0 +1,39 @@
+{
+  "origin": "Vanexa Android application",
+  "git_head_at_extraction": "75a111a91fca56d0a24885fe276c2bb0cd3af347",
+  "note": "Selected, unmodified source files from the working tree. They are not a standalone Android project.",
+  "files": [
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/domain/model/UnitConverter.kt",
+      "sha256": "d12c93773e4959528788d0034b6d356079d2d68a4334d9e2188ed1e3d85b5f8a"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/domain/usecase/UnitConverterUseCase.kt",
+      "sha256": "803ee01eb2a1326ca3c031020d6b4309f20cbb531360b743a3c217aabd4747b9"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/presentation/converter/ConverterActivity.kt",
+      "sha256": "a8e91c8ba89e1fdcc0e0f49b9bccae0bd6596c457f5977cce0695b88431d7a93"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/presentation/converter/UnitConverterScreen.kt",
+      "sha256": "2a9a3aab1a67e8dcd835d2efd6449ff9f6a39e1923280d333eb3092035d36bbe"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/presentation/converter/UnitConverterViewModel.kt",
+      "sha256": "9a7322771e0fa05f0c945442cae5badd45556334941417496badf587107824ce"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/presentation/tools/PdfToolScreen.kt",
+      "sha256": "ce5ebc2c57f2255957d16c4aa15fa3a7504262f258fdc86b7a66800c679ad339"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/util/ImageTools.kt",
+      "sha256": "1e3c7f91f863dea0e1d3da7774b8d3d85d3f76f1f139abbe87544a093ec932f2"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/util/PdfTools.kt",
+      "sha256": "5593913fbc90516dac7f59e4a559b300fb6e7ecf30c1869b900fcc3e437cd64e"
+    }
+  ]
+}
